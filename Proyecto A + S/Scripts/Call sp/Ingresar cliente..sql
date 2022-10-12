@@ -1,0 +1,5 @@
+call registrar_cliente ("20975149-6", "Matias Javier Caceres Pardo", "matpar2caceres@gmail.com", "953475155", 8, "Valles del sur #317", 1, "Laura Pardo", "953475155");
+call registrar_cliente ("21199710-9", "Sebastian Alfonso Torres Tapia", "Sebastiant@gmail.com", "975867598", "8", "manuel montt #456", "1", "Maria Tapia", "965897641");
+call registrar_cliente ("21494002-7", "Maria Jose Bustamante Gutierrez", "Cotepanda@gmail.com", "958342134", "8", "Ternura #35", "1", "Eduardo Bustamante", "964743256");
+call registrar_cliente ("14049320-1", "Laura Pardo Lucero", "Laurapar2@gmail.com", "974854343", "8", "Valles del sur #317", "1", "Matias Caceres", "953475155");
+call registrar_cliente ("21603484-8", "Pia Valentina Olivares Lopez", "piaseulvi@gmail.com", "989764532", "1", "Nincunlauta #324", "1", "Maria Bustamante", "958342134");
